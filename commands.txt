@@ -7,3 +7,7 @@ git status [list all untracked files]
 git add -A [command for adding all untracked files to staging area]
 git commit -m "commit message" [adding staged files to local repository]
 git log [command for lisitng commit history]
+
+git remote add name [remote-path]
+git remote -v [list all remotes]
+git branch [list all branches]
